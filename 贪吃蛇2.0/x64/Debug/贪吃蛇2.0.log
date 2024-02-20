@@ -1,0 +1,10 @@
+﻿  snack.c
+D:\c++\贪吃蛇2.0\snack.c(15,16): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\c++\贪吃蛇2.0\snack.c(84,10): warning C4013: “_kbhit”未定义；假设外部返回 int
+D:\c++\贪吃蛇2.0\snack.c(86,10): warning C4013: “_getch”未定义；假设外部返回 int
+D:\c++\贪吃蛇2.0\snack.c(173,1): warning C4142: "RestartGame": 类型的良性重定义
+  D:\c++\贪吃蛇2.0\snack.h(32,6):
+  参见“RestartGame”的声明
+  
+D:\c++\贪吃蛇2.0\snack.c(194,16): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  贪吃蛇2.0.vcxproj -> D:\c++\贪吃蛇2.0\x64\Debug\贪吃蛇2.0.exe
